@@ -12,6 +12,7 @@ if (!func || !input) {
     console.log('  Ejemplos:');
     console.log('    node main.js reverseString "Hola mundo"');
     console.log('    node main.js reverseWords "Hola mundo cruel"');
+    console.log('Creado por Kike');
     process.exit(1);
 }
 
