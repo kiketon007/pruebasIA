@@ -5,7 +5,7 @@ const input = args.join(' ');
 
 if (!func || !input) {
     console.log('Uso: node main.js <función> <cadena>');
-    console.log('  Funciones disponibles:');
+    console.log('--Funciones disponibles:');
     console.log('    reverseString  — invierte los caracteres de una cadena');
     console.log('    reverseWords   — invierte el orden de las palabras');
     console.log('');
